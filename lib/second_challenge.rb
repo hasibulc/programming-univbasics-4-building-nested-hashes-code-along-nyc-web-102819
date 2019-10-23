@@ -13,6 +13,5 @@ def second_challenge
       herine_friends: []
       }
   }
-
   
 end
